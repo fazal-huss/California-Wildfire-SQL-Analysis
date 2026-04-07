@@ -57,7 +57,11 @@ The dataset was imported from a CSV file into SQL Server and analyzed using SQL 
 - Moving Average → Trend smoothing
 
 ---
-<img width="2752" height="1536" alt="unnamed (2)" src="https://github.com/user-attachments/assets/0d32c49a-ea59-4de1-bfdc-d6c20913c2b9" />
+## 📊 Visual Summary of Analysis
+
+[![Wildfire Analysis](images/wildfire_preview.png)]
+
+*Click the image to view full-size infographic*
 ---
 
 ## 🔹 Key Queries Performed
