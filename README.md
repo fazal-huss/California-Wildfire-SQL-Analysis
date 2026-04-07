@@ -57,9 +57,7 @@ The dataset was imported from a CSV file into SQL Server and analyzed using SQL 
 - Moving Average → Trend smoothing
 
 ---
-<img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/6814645d-f145-4841-88dd-71f0234cd213" />
-
-
+<img width="2752" height="1536" alt="unnamed (2)" src="https://github.com/user-attachments/assets/0d32c49a-ea59-4de1-bfdc-d6c20913c2b9" />
 ---
 
 ## 🔹 Key Queries Performed
