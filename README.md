@@ -59,7 +59,7 @@ The dataset was imported from a CSV file into SQL Server and analyzed using SQL 
 ---
 ## 📊 Visual Summary of Analysis
 
-[![Wildfire Analysis](images/wildfire_preview.png)]
+[![Wildfire Analysis](img/wildfire_preview.png)]
 
 *Click the image to view full-size infographic*
 ---
